@@ -11,7 +11,7 @@ Happy learning. :+1:
 ### Show some :heart: and star the repo to support the project
 
 [![GitHub stars](https://img.shields.io/github/stars/dhruvil2000/gender_selector_flutter.svg?style=social&label=Star)](https://github.com/dhruvil2000/gender_selector_flutter) [![GitHub forks](https://img.shields.io/github/forks/dhruvil2000/gender_selector_flutter.svg?style=social&label=Fork)](https://github.com/dhruvil2000/gender_selector_flutter/fork) [![GitHub watchers](https://img.shields.io/github/watchers/dhruvil2000/gender_selector_flutter.svg?style=social&label=Watch)](https://github.com/dhruvil2000/gender_selector_flutter) [![GitHub followers](https://img.shields.io/github/followers/dhruvil2000.svg?style=social&label=Follow)](https://github.com/dhruvil2000/gender_selector_flutter)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamdsp.svg?style=social)](https://twitter.com/imthepk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamdhruvil.svg?style=social)](https://twitter.com/iamdhruvil)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/iampawan/Flutter-UI-Kit/blob/master/licence.txt)
