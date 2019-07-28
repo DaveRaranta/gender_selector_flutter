@@ -1,0 +1,22 @@
+name: gender_selector
+description: A Flutter Package for gender selector widget for the app.
+version: 0.0.1
+author: Dhruvil Patel <dhruvilscreation@gmail.com>
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  assets:
+    - assets/male.png
+    - assets/female.png
