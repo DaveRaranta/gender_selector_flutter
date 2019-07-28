@@ -10,21 +10,48 @@ Happy learning. :+1:
 
 ### Show some :heart: and star the repo to support the project
 
-[![GitHub stars](https://img.shields.io/github/stars/iampawan/Flutter-UI-Kit.svg?style=social&label=Star)](https://github.com/iampawan/Flutter-UI-Kit) [![GitHub forks](https://img.shields.io/github/forks/iampawan/Flutter-UI-Kit.svg?style=social&label=Fork)](https://github.com/iampawan/Flutter-UI-Kit/fork) [![GitHub watchers](https://img.shields.io/github/watchers/iampawan/Flutter-UI-Kit.svg?style=social&label=Watch)](https://github.com/iampawan/Flutter-UI-Kit) [![GitHub followers](https://img.shields.io/github/followers/iampawan.svg?style=social&label=Follow)](https://github.com/iampawan/Flutter-UI-Kit)
-[![Twitter Follow](https://img.shields.io/twitter/follow/imthepk.svg?style=social)](https://twitter.com/imthepk)
+[![GitHub stars](https://img.shields.io/github/stars/dhruvil2000/gender_selector_flutter.svg?style=social&label=Star)](https://github.com/dhruvil2000/gender_selector_flutter) [![GitHub forks](https://img.shields.io/github/forks/dhruvil2000/gender_selector_flutter.svg?style=social&label=Fork)](https://github.com/dhruvil2000/gender_selector_flutter/fork) [![GitHub watchers](https://img.shields.io/github/watchers/dhruvil2000/gender_selector_flutter.svg?style=social&label=Watch)](https://github.com/dhruvil2000/gender_selector_flutter) [![GitHub followers](https://img.shields.io/github/followers/dhruvil2000.svg?style=social&label=Follow)](https://github.com/dhruvil2000/gender_selector_flutter)
+[![Twitter Follow](https://img.shields.io/twitter/follow/iamdsp.svg?style=social)](https://twitter.com/imthepk)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/iampawan/Flutter-UI-Kit/blob/master/licence.txt)
 
 # Screenshots
 
-<img height="480px" src="raw/fu12.png"><img height="480px" src="raw/fu1.png"><img height="480px" src="raw/fu2.png"> <img height="480px" src="raw/fu3.png"> <img height="480px" src="raw/fu4.png"> <img height="480px" src="raw/fu5.png"> <img height="480px" src="raw/fu6.png"> <img height="480px" src="raw/fu7.png"> <img height="480px" src="raw/fu8.png"><img height="480px" src="raw/fu9.png"><img height="480px" src="raw/fu10.png"><img height="480px" src="raw/fu11.png">
+<img height="480px" src="https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/screenshots/1.png">
 
-### The stack & building from source
 
-The project is currently built using the latest Flutter Master, with Dart 2 enabled.
+## Installation
 
-To build the project, ensure that you have a recent version of the Flutter SDK installed. Then either run `flutter run` in the project root or use your IDE of choice.
+First Include this dependency in your pubspec.yaml
+```yaml
+gender_selector:
+```
+
+Then import it in your code.
+
+## Widget
+
+```dart
+GenderSelector(
+  margin: EdgeInsets.only(left: 10, top: 30, right: 10, bottom: 10,),
+  selectedGender: Gender.FEMALE,
+  onChanged: (gender) async {
+
+    setState(() {
+      if(gender == Gender.FEMALE) {
+        selectedGender = "female";
+      } else {
+        selectedGender = "male";
+      }
+    });
+
+  },
+
+)
+```
+
+
 
 ## Contribution Guide
 
