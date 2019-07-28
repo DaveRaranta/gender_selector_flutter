@@ -55,7 +55,7 @@ GenderSelector(
 
 ## Contribution Guide
 
-This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Flutter UIKit available for free, for everyone, forever.**
+This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Gender Selector available for free, for everyone, forever.**
 
 For resource contribution, just follow the following format: `[reference-name](link) - Description`, and raise a Pull Request. If you want to contribute multiple resources, raise separate PRs for each of them. Please consider adding resources maintaining the default sorting order of the category, like alphabetical sorting.
 
