@@ -1,6 +1,6 @@
 name: gender_selector
 description: A Flutter Package for gender selector widget for the app. Using this package you can allow the user to select the gender by the beautiful widget. Show your love on this package.
-version: 1.0.0
+version: 1.0.1
 author: Dhruvil Patel <dhruvilscreation@gmail.com>
 homepage: https://github.com/dhruvil2000/gender_selector_flutter
 
