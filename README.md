@@ -14,11 +14,18 @@ Happy learning. :+1:
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamdhruvil.svg?style=social)](https://twitter.com/iamdhruvil)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/iampawan/Flutter-UI-Kit/blob/master/licence.txt)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/dhruvil2000/gender_selector_flutter)
 
 # Screenshots
 
+<img height="480px" src="https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/screenshots/2.png">
+
 <img height="480px" src="https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/screenshots/1.png">
+
+
+## Medium Article
+[![Medium Article](https://en.wikipedia.org/wiki/Medium_(website)#/media/File:Medium_logo_Wordmark_Black.svg)](https://medium.com/@bzzzardedu/gender-selector-in-the-flutter-app-4fab51d8dfca)
+
 
 
 ## Installation
