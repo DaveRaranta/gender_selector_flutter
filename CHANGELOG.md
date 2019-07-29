@@ -1,3 +1,7 @@
+## [1.0.0] - Release
+
+* First Stable Release
+
 ## [0.0.4] - Release
 
 * Minor Changes
