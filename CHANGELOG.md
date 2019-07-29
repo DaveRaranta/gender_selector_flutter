@@ -1,3 +1,7 @@
+## [1.0.2] - Release
+
+* Image Loading Issue Solved
+
 ## [1.0.1] - Release
 
 * Image Loading Issue Solved

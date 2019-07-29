@@ -6,8 +6,8 @@ enum Gender {MALE , FEMALE, NONE}
 
 class GenderSelector extends StatefulWidget {
 
-  String maleimg = 'assets/male.png';
-  String femaleimg = 'assets/female.png';
+  String maleimg = 'https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/assets/male.png';
+  String femaleimg = 'https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/assets/female.png';
   String maletxt = "Male";
   String femaletxt = "Female";
 
@@ -19,8 +19,8 @@ class GenderSelector extends StatefulWidget {
   ValueChanged<Gender> onChanged;
 
   GenderSelector({
-    this.maleimg = 'assets/male.png',
-    this.femaleimg = 'assets/female.png',
+    this.maleimg = 'https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/assets/male.png',
+    this.femaleimg = 'https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/assets/female.png',
     this.maletxt = "Male",
     this.femaletxt = "Female",
     this.padding = const EdgeInsets.all(0),
@@ -71,7 +71,7 @@ class _GenderSelectorState extends State<GenderSelector> {
                           )
                       ),
                       child: Image(
-                        image: AssetImage(widget.maleimg),
+                        image: NetworkImage(widget.maleimg),
                         width: 130,
                         height: 130,
                       ),
@@ -113,7 +113,7 @@ class _GenderSelectorState extends State<GenderSelector> {
                           )
                       ),
                       child: Image(
-                        image: AssetImage(widget.femaleimg),
+                        image: NetworkImage(widget.femaleimg),
                         width: 130,
                         height: 130,
                       ),
