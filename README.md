@@ -18,13 +18,13 @@ Happy learning. :+1:
 
 # Screenshots
 
-<img height="480px" src="https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/screenshots/2.png">
+<img height="480px" src="https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/screenshots/2.jpg">
 
 <img height="480px" src="https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/screenshots/1.png">
 
 
 ## Medium Article
-[![Medium Article](https://en.wikipedia.org/wiki/Medium_(website)#/media/File:Medium_logo_Wordmark_Black.svg)](https://medium.com/@bzzzardedu/gender-selector-in-the-flutter-app-4fab51d8dfca)
+[![Medium Article](https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico)](https://medium.com/@bzzzardedu/gender-selector-in-the-flutter-app-4fab51d8dfca)
 
 
 
