@@ -18,7 +18,7 @@ Happy learning. :+1:
 
 # Screenshots
 
-<img height="480px" src="https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/screenshots/2.jpg">
+<img src="https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/screenshots/2.jpg">
 
 <img height="480px" src="https://raw.githubusercontent.com/dhruvil2000/gender_selector_flutter/master/screenshots/1.png">
 

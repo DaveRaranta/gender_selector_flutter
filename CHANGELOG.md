@@ -1,3 +1,7 @@
+## [1.0.6] - Release
+
+* Readme.md Improved
+
 ## [1.0.5] - Release
 
 * Readme.md changed
